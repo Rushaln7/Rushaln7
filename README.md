@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushal Nandeshwar</h1>
 <h3 align="center">Web Developer & Data Analyst | Expert in Responsive Design and Data-Driven Insights | Full Project Management from Concept to Delivery</h3>
 
-<p align="left"> <a style="filter: invert(1)" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaln7" alt="rushaln7" /></a> </p>
+<p align="left"> <a style="filter: invert(0)" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaln7" alt="rushaln7" /></a> </p>
 
 - 🌱 I’m currently learning **Adobe Photoshop, Redux, Three.js**
 
